@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-size: 18px;
+  height: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.2rem;
+  border-radius: 20px;
+  background-color: rgb(219, 249, 253);
+  margin-bottom: 23px;
+}
+
+article {
+  background-color: rgb(215, 222, 230);
+  border-radius: 5px;
+  margin-bottom: 25px;
+  padding: 10px;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
+}
+
+i:hover {
+  transition: transform .3s linear;
+  transform: scale(1.2);
+}
+
+.sns_list {
+  all: unset;
+  list-style-type: none;
+  display: flex;
+}
+
+.sns_list a {
+  margin: 5px;
+  font-size: 24px;
+}
