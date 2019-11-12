@@ -10,15 +10,12 @@ body {
 header {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 1.2rem;
+  justify-content: left;
+  align-items: flex-start;
+  padding: 17px;
   background-color: rgb(219, 249, 253);
   margin-bottom: 23px;
-}
-
-main {
-  height: 100% - 200px;
+  height: 183px;
 }
 
 article {
