@@ -47,6 +47,10 @@
   .slider_item {
     max-height: 100px;
   }
+
+  main {
+    height: 100% - 100px;
+  }
 }
 
 .slider_item:nth-child(odd) {

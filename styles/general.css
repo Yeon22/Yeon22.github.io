@@ -17,6 +17,10 @@ header {
   margin-bottom: 23px;
 }
 
+main {
+  height: 100% - 200px;
+}
+
 article {
   background-color: #ebebeb;
   border-radius: 5px;
