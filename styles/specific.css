@@ -54,6 +54,14 @@
 }
 
 @media (max-width: 325px) {
+  body {
+    font-size: 16px;
+  }
+
+  header {
+    height: 183px;
+  }
+  
   .slider_item {
     top: 95px;
     right: 5px;
