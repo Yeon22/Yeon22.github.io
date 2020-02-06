@@ -25,10 +25,10 @@
 
 .slider_item {
   position: absolute;
-  top: 0;
-  right: 0;
-  max-height: 200px;
-  max-width: 200px;
+  top: 2vh;
+  right: 2vh;
+  max-height: 22vh;
+  max-width: 24vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -61,20 +61,20 @@
   header {
     height: 183px;
   }
-  
+
   .slider_item {
-    top: 95px;
+    top: 12vh;
     right: 5px;
-    max-height: 110px;
+    max-height: 10vh;
     max-width: 130px;
   }
 }
 
 @media (min-width: 326px) and (max-width: 395px) {
   .slider_item {
-    top: 25px;
+    top: 15vh;
     right: 5px;
-    max-height: 160px;
+    max-height: 10vh;
     max-width: 160px;
   }
 }
