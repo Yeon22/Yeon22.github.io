@@ -1,8 +1,9 @@
 # Portfolio Project
+
 This is my portfolio list project.
 
+1. Introduce
 1. Portfolio List
-2. SNS Link
-3. Image Slider
+1. SNS Link
 
-[Check it out right now!](https://yeon22.github.io)
+[Check it out!](https://yeon22.github.io)
